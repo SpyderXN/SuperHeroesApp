@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuperHeroesApp</string>
+    <string name="hero1">Iron Man</string>
+    <string name="description1">The Jetpack Hero</string>
+    <string name="hero2">Captain America</string>
+    <string name="description2">Man out of time</string>
+    <string name="hero3">The Batman</string>
+    <string name="description3">The Dark Knight</string>
+    <string name="hero4">Superman</string>
+    <string name="description4">Man of steel</string>
+    <string name="hero5">The Flash</string>
+    <string name="description5">The fastest man alive</string>
+    <string name="hero6">Doctor Strange</string>
+    <string name="description6">The sorcerer supreme</string>
+</resources>
